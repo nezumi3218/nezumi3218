@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nezumi3218
+- 👋 Hi, I’m Muskan
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning and working with react js
 - 😄 Pronouns: she/her
